@@ -31,6 +31,7 @@
     background-color: white;
     padding: 15px;
     border-radius: 40px;
+    cursor: pointer;
 }
 .temperature{
     font-size: 45px;
@@ -61,4 +62,8 @@
 .weather-data .col img{
     width: 26px;
     margin-top: 10px;
+}
+#error{
+    margin-top: 20px;
+
 }
